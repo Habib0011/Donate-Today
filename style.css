@@ -1,0 +1,97 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+}
+.header{
+    text-align: center;
+   margin-bottom: 10px;
+}
+.header-content h1{
+    font-size: 45px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.header-content p{
+   font-size: 25px;
+   margin-left: 200px;
+   margin-right: 200px;
+}
+
+.header-pic img{
+    width: 1260px;
+    height: 650px;
+}
+.header-content{
+    position: relative;
+    bottom: 490px;
+    color: white;
+    font-weight: 900;
+}
+.button{
+    text-decoration: none;
+   background-color: tomato;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.Donated{
+    position: relative;
+    bottom: 200px;
+}
+.donated-content{
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.donated-content h1{
+    font-size: 40px;
+}
+.donated-content p{
+    font-size: 20px;
+}
+.donated-ammount{
+    display:flex;
+    margin-left: 250px;
+    
+   
+}
+.donated-ammount h1{
+    margin: 20px;
+}
+.ammount{
+    background-color: rgb(245, 245, 245);
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+}
+#selected-ammount{
+    background-color: rgb(240, 213, 213);
+    color: red;
+    border: 2px solid red;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+}
+.donate-other p{
+    text-align: center;
+    color: rgba(128, 128, 128, 0.439);
+}
+.donate-other hr{
+    margin-left: 250px ;
+    margin-right: 250px;
+}
+.donate-other a {
+    margin-left: 580px;
+    
+}
+
+
+
